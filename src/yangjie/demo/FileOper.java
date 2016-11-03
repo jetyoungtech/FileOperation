@@ -7,6 +7,7 @@ public class FileOper {
 
   public static void main(String[] args) {
     // TODO Auto-generated method stub
+    //this is for gitHub test !
     File f1 = new File("C:\\Users\\lenovo\\Desktop\\新建文件夹\\test"); //绝对路径
     File f2 = new File("test1.txt"); //相对路径
     File f3 = new File("C:\\Users\\lenovo\\Desktop\\新建文件夹\\test\\file.txt"); //文件夹
