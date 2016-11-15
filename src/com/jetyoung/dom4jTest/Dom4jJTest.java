@@ -8,7 +8,7 @@ import org.dom4j.Element;
 import org.dom4j.Node;
 import org.junit.Test;
 
-import com.jetyoung.dom4jUtil.Dom4jUtil;
+import com.jetyoung.Util.Dom4jUtil;
 
 public class Dom4jJTest {
 
